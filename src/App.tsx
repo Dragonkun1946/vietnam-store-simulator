@@ -6,7 +6,6 @@ import RainBackground from './components/RainBackground';
 
 import MainMenu from './components/MainMenu';
 import SaveSlotOverlay from './components/SaveSlotOverlay';
-import SettingsOverlay from './components/SettingsOverlay';
 import GameScreen from './components/GameScreen';
 
 import type { SaveSlot } from './types/game';
